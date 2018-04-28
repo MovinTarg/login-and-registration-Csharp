@@ -1,0 +1,10 @@
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_intermediate\login and registration\bin\Debug\netcoreapp2.0\login and registration.deps.json
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_intermediate\login and registration\bin\Debug\netcoreapp2.0\login and registration.runtimeconfig.json
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_intermediate\login and registration\bin\Debug\netcoreapp2.0\login and registration.runtimeconfig.dev.json
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_intermediate\login and registration\bin\Debug\netcoreapp2.0\login and registration.dll
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_intermediate\login and registration\bin\Debug\netcoreapp2.0\login and registration.pdb
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_intermediate\login and registration\obj\Debug\netcoreapp2.0\login and registration.csproj.CoreCompileInputs.cache
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_intermediate\login and registration\obj\Debug\netcoreapp2.0\login and registration.AssemblyInfoInputs.cache
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_intermediate\login and registration\obj\Debug\netcoreapp2.0\login and registration.AssemblyInfo.cs
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_intermediate\login and registration\obj\Debug\netcoreapp2.0\login and registration.dll
+C:\Users\Pete\Desktop\DojoAssignments\netCore\asp.net_core_intermediate\login and registration\obj\Debug\netcoreapp2.0\login and registration.pdb
